@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Github/GroupProject4/Team4Project/Content/Demo/Map/L_BattleTest.umap",
+				"E:/Github/GroupProject4/Team4Project/Content/BluePrint/Core/Terrain/BP_TerrainModifier.uasset",
+				"E:/Github/GroupProject4/Team4Project/Content/Demo/Map/_GENERATED/13903/SM_Unit.uasset",
+				"E:/Github/GroupProject4/Team4Project/Content/Demo/Map/_GENERATED/13903/CubeGridToolOutput_3D147E1C.uasset",
 				"E:/Data/GithubData/GroupProject4/Team4Project/Content/Demo/Map/L_BattleTest.umap",
 				"E:/Data/GithubData/GroupProject4/Team4Project/Content/BluePrint/Core/Player/BP_PC.uasset",
 				"E:/Data/GithubData/GroupProject4/Team4Project/Content/BluePrint/Core/Player/BP_GM.uasset",
